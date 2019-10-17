@@ -10,5 +10,5 @@ import Foundation
 
 struct Ololo
 {
-    let itBee: Int
+    let itBee: String
 }
