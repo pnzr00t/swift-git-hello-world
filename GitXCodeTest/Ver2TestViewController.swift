@@ -10,5 +10,6 @@ import Foundation
 
 struct Ololo
 {
-    let itBee: Float32
+    let itBee: String
+    let letItBee: Date
 }
