@@ -15,6 +15,7 @@
 		BD27FB932358BB3B004537C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD27FB922358BB3B004537C2 /* Assets.xcassets */; };
 		BD27FB962358BB3B004537C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD27FB942358BB3B004537C2 /* LaunchScreen.storyboard */; };
 		BD27FBA12358BB3C004537C2 /* GitXCodeTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD27FBA02358BB3C004537C2 /* GitXCodeTestTests.swift */; };
+		BD27FBAC2358C2CB004537C2 /* Ver2TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD27FBAB2358C2CB004537C2 /* Ver2TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		BD27FB9C2358BB3C004537C2 /* GitXCodeTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitXCodeTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD27FBA02358BB3C004537C2 /* GitXCodeTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitXCodeTestTests.swift; sourceTree = "<group>"; };
 		BD27FBA22358BB3C004537C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD27FBAB2358C2CB004537C2 /* Ver2TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ver2TestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				BD27FB862358BB3A004537C2 /* AppDelegate.swift */,
 				BD27FB882358BB3A004537C2 /* SceneDelegate.swift */,
 				BD27FB8A2358BB3A004537C2 /* ViewController.swift */,
+				BD27FBAB2358C2CB004537C2 /* Ver2TestViewController.swift */,
 				BD27FB8C2358BB3A004537C2 /* Main.storyboard */,
 				BD27FB922358BB3B004537C2 /* Assets.xcassets */,
 				BD27FB942358BB3B004537C2 /* LaunchScreen.storyboard */,
@@ -207,6 +210,7 @@
 				BD27FB8B2358BB3A004537C2 /* ViewController.swift in Sources */,
 				BD27FB872358BB3A004537C2 /* AppDelegate.swift in Sources */,
 				BD27FB892358BB3A004537C2 /* SceneDelegate.swift in Sources */,
+				BD27FBAC2358C2CB004537C2 /* Ver2TestViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
